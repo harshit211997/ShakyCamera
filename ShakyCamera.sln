@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShakyCamera", "Assembly-CSharp.csproj", "{86CB38F5-E256-7668-4F72-8D9F4D52611C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86CB38F5-E256-7668-4F72-8D9F4D52611C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86CB38F5-E256-7668-4F72-8D9F4D52611C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86CB38F5-E256-7668-4F72-8D9F4D52611C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86CB38F5-E256-7668-4F72-8D9F4D52611C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
