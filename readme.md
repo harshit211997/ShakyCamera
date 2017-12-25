@@ -2,7 +2,7 @@
 
 ### A realistic way to implement Camera Shake in Unity. 
 
-![Alt Text](https://raw.github.com/harshit211997/ShakyCamera/master/spooky_alien_shake.gif)
+![Spooky Alien Shakes](https://github.com/harshit211997/ShakyCamera/blob/master/spooky_alien_shakes.gif)
 
 Inspired from the GDC talk "Math for Game Programmers"
 
